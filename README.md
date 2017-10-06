@@ -1,2 +1,5 @@
 # srcf-temp
-South River Cross Fit - Temp Site
+South River Crossfit - Temp Site
+
+## Purpose
+The main purpose of this site is to be landing page while the real site is being developed.
